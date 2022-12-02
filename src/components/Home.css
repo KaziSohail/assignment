@@ -1,0 +1,18 @@
+.main_container{
+    display: flex;
+    align-items: center;
+
+}
+
+.container{
+    margin-left: 30px;
+    line-height: 15px;
+    cursor: pointer;
+}
+.container h1{
+    color: rgb(255, 0, 0);
+}
+
+.container h2{
+    color: rgb(139, 148, 141);
+}

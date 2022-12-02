@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.title{
+    font-size: 45px;
+}
+
+.bi-plus-circle{
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.bi-pencil{
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 30px;    
+    
+}
